@@ -13,5 +13,5 @@ def second_challenge
     all_values << groceries.values
 
   
-  all_values
+  all_values.flatten
 end
