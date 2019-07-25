@@ -10,7 +10,7 @@ def second_challenge
   all_values = []
   
   
-    all_values << groceries[key].values
+    all_values << groceries.values
 
   
   all_values
